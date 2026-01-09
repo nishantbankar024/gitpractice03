@@ -1,1 +1,3 @@
 git  this is B.txt file
+
+now am working on B.txt
