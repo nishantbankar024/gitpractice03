@@ -1,1 +1,3 @@
 this is a A File.. one updated
+
+now am working A.txt file
